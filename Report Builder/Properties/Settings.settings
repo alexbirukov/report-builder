@@ -1,0 +1,21 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="Report_Builder.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="Aliases" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Disk D;Voice Tracks</Value>
+    </Setting>
+    <Setting Name="FilesDir" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="AllFiles" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="ReportDir" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="Month" Type="System.DateTime" Scope="User">
+      <Value Profile="(Default)">2011-10-01</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
